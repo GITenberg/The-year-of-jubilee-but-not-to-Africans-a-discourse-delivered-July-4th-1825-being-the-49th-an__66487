@@ -1,11 +1,16 @@
 _repo: The-year-of-jubilee-but-not-to-Africans-a-discourse-delivered-July-4th-1825-being-the-49th-an__66487
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66487-h/images/cover.jpg
 creator:
   author:
     agent_name: Prime, Nathaniel S.
     gutenberg_agent_id: '53838'
     url: http://www.gutenberg.org/2009/agents/53838
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66487#The-year-of-jubilee-but-not-to-Africans-a-discourse-delivered-July-4th-1825-being-the-49th-an_
 gutenberg_issued: '2021-10-07'
 identifiers:
   gutenberg: '66487'
